@@ -5,7 +5,7 @@ description: Sentiment Analysis on Social Media Data
 img: assets/img/13.jpg
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 
@@ -13,4 +13,4 @@ This project focuses on analyzing sentiment in social media data by using Natura
 
 
 
-{% include figure.liquid path="assets/img/13.jpg" class="img-fluid rounded z-depth-1" %}
+
