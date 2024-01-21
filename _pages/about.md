@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: laptop.jpeg.webp
+  image: Screenshot (10).png
   image_circular: false # crops the image to make it circular
   more_info: 
 
