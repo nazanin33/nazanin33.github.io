@@ -1,11 +1,11 @@
 ---
 layout: default
 permalink: 
-title: 
-nav: false
+title: posts
+nav: true
 nav_order: 1
 pagination:
-  enabled: false
+  enabled: true
   collection: 
   permalink: 
   per_page: 5
