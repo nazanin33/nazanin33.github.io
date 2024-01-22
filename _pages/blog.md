@@ -1,13 +1,13 @@
 ---
 layout: default
-permalink: 
+permalink: /blog/
 title: posts
 nav: true
 nav_order: 1
 pagination:
   enabled: true
-  collection: 
-  permalink: 
+  collection: posts
+  permalink: /page/:num/
   per_page: 5
   sort_field: date
   sort_reverse: true
